@@ -69,7 +69,7 @@ To contribute:
 
 ## License
 
-![alt text]("https://github.com/Dhanraj30/nft-marketplace/blob/main/Screenshot%20(171).png")
+! [alt]("https://github.com/Dhanraj30/nft-marketplace/blob/main/Screenshot%20(171).png")
 
 ---
 
