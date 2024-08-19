@@ -69,7 +69,7 @@ To contribute:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+![alt text]("https://github.com/Dhanraj30/nft-marketplace/blob/main/Screenshot%20(171).png")
 
 ---
 
