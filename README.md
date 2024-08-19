@@ -67,10 +67,7 @@ To contribute:
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Open a pull request.
 
-## License
 
-![alt text] ("https://github.com/Dhanraj30/nft-marketplace/blob/main/Screenshot%20(171).png")
+![alt text](https://github.com/Dhanraj30/nft-marketplace/blob/main/Screenshot%20(171).png)
 
----
 
-Feel free to customize this README file to better suit your project's needs!
